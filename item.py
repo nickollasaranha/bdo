@@ -5,9 +5,5 @@ class Item:
 		self.time_required = 0
 		self.requirements = {}
 
-		self.price = 0
-
-a = Item("Freixo")
-a.price = 200
-
-print(a.price)
+  def set_price(self, price):
+		self.price = price
