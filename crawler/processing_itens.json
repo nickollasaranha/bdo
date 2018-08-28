@@ -1,0 +1,12 @@
+{
+    "4051": {
+        "profission": "Heating",
+        "time_required": 8,
+        "requirements": {
+            "4001": 5
+        },
+        "byproducts": {
+            "4051": 0.03
+        }
+    }
+}
