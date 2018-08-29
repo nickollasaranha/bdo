@@ -182,7 +182,11 @@ def process_row(tds):
   processing_dict["byproducts"] = item_byproducts
 
   processing_itens_cv.acquire()
-  processing_itens[item_id] = processing_dict.copy()
+
+  if (processing_itens.get(item_id, None)) == None:
+    processing_itens[item_id] = []
+
+  processing_itens[item_id].append(processing_dict.copy())
   processing_itens_cv.release()
   threadLimiter.release()
 
