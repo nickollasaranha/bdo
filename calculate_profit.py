@@ -2,7 +2,6 @@ import json
 
 # Define percentage that you will loose due to market tax
 MARKET_DEFAULT_TAX = (1-0.145)
-DEFAULT_PROC_PER_PROCESS = 2.5
 
 # Load definitions
 PROCESSING_DEFINITION_FILE = "data/processing.json"
@@ -39,7 +38,8 @@ def get_item_price(item_id, tipo):
     itens_price = []
     itens = group_data[item_id]["itens"]
     for aux_item_id in itens: itens_price.append(get_item_price(aux_item_id, "item"))
-    return min([price for price in itens_price if price!=-1])
+    prices = [price for price in itens_price if price!=-1]
+    return -1 if prices == [] else min(prices)
   return int(itens_data[item_id]["price"])
 
 # This function returns the recipe profission
@@ -63,7 +63,7 @@ def get_recipe_generate_item(recipe_id, tipo):
 # This function will print the profitable things
 def print_values(profitability_list):
 
-  for item in sorted(profitability_list, key=lambda k:list(k.values())[0][1], reverse=True):
+  for item in sorted(profitability_list, key=lambda k:list(k.values())[0][1]):
     tipo = list(item.keys())[0]
     recipe_id = list(item.values())[0][0]
     item_generating = get_recipe_generate_item(recipe_id, tipo)
@@ -103,14 +103,13 @@ def calcProfitability(data, name):
     requirements_price *= MARKET_DEFAULT_TAX
 
     # Calculate the item price now.
-    item_price = get_item_price(generating_item, "item")*DEFAULT_PROC_PER_PROCESS
+    item_price = get_item_price(generating_item, "item")*data[recipe_id]["proc"]
     item_price *= MARKET_DEFAULT_TAX
 
     # Calculate the profit by hour
     profit = (item_price-requirements_price)
     hour_to_seconds = 60*60 / data[recipe_id]["time_required"]
     profitability_list.append({name: [recipe_id, int(profit*hour_to_seconds)]})
-
   return profitability_list
 
 # MAIN FUNC

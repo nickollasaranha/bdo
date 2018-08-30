@@ -13,6 +13,7 @@ DEFAULT_T1_T3_PROC = 0.03
 DEFAULT_PROCESSING_TIME = 8
 DEFAULT_COOK_PROCESSING_TIME = 3
 DEFAULT_ALCHEMY_PROCESSING_TIME = 5
+DEFAULT_PROC_PER_PROCESS = 2.5
 
 # Don't change vars below
 ITEM_DEFAULT_URL = "https://bddatabase.net/tip.php?id=item--{}&enchant=0&l={}&nf=on"
@@ -169,6 +170,7 @@ def process_row(tds):
   recipe_dict["time_required"] = processing_time
   recipe_dict["item_requirements"], recipe_dict["group_requirements"] = get_item_requirements(tds)
   recipe_dict["generates"], recipe_dict["byproducts"] = get_item_byproducts(tds)
+  recipe_dict["proc"] = DEFAULT_PROC_PER_PROCESS
 
   # Write to global var
   aux_recipes_cv.acquire()

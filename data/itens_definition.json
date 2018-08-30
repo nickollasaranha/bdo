@@ -5,7 +5,7 @@
             "pt": "Minério de Cobre"
         },
         "weight": 0.3,
-        "price": 570
+        "price": 576
     },
     "4057": {
         "name": {
@@ -13,7 +13,7 @@
             "pt": "Fragmento do Cobre Derretido"
         },
         "weight": 0.3,
-        "price": 2000
+        "price": 1617
     },
     "4054": {
         "name": {
@@ -21,7 +21,7 @@
             "pt": "Fragmento do Chumbo Derretido"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 1305
     },
     "4051": {
         "name": {
@@ -29,7 +29,7 @@
             "pt": "Fragmento do Ferro Derretido"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 2108
     },
     "4002": {
         "name": {
@@ -37,7 +37,7 @@
             "pt": "Minério de Chumbo"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 700
     },
     "4063": {
         "name": {
@@ -45,7 +45,7 @@
             "pt": "Fragmento do Zinco Derretido"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 4240
     },
     "4001": {
         "name": {
@@ -53,7 +53,7 @@
             "pt": "Minério de Ferro"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 658
     },
     "4005": {
         "name": {
@@ -61,7 +61,7 @@
             "pt": "Minério de Zinco"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 1059
     },
     "4004": {
         "name": {
@@ -77,7 +77,7 @@
             "pt": "Fragmento do Estanho Derretido"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 2637
     },
     "4055": {
         "name": {
@@ -85,7 +85,7 @@
             "pt": "Lingote de Chumbo"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 10764
     },
     "4058": {
         "name": {
@@ -93,7 +93,7 @@
             "pt": "Lingote de Cobre"
         },
         "weight": 0.3,
-        "price": 10000
+        "price": 10773
     },
     "4052": {
         "name": {
@@ -101,7 +101,7 @@
             "pt": "Lingote de Ferro"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 13700
     },
     "4064": {
         "name": {
@@ -109,7 +109,7 @@
             "pt": "Lingote de Zinco"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 15422
     },
     "4061": {
         "name": {
@@ -117,7 +117,7 @@
             "pt": "Lingote de Estanho"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 12383
     },
     "4066": {
         "name": {
@@ -125,7 +125,7 @@
             "pt": "Lingote de Latão"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 14478
     },
     "4006": {
         "name": {
@@ -149,7 +149,7 @@
             "pt": "Carvão"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 962
     },
     "4205": {
         "name": {
@@ -181,7 +181,7 @@
             "pt": "Lingote de Bronze"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 13565
     },
     "4409": {
         "name": {
@@ -197,7 +197,7 @@
             "pt": "Cristal Negro Bruto"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 5602
     },
     "4408": {
         "name": {
@@ -205,7 +205,7 @@
             "pt": "Cristal Vermelho Bruto"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 1695
     },
     "4076": {
         "name": {
@@ -253,7 +253,7 @@
             "pt": "Cristal Translúcido"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 7251
     },
     "4467": {
         "name": {
@@ -277,7 +277,7 @@
             "pt": "Cristal Vermelho"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 6780
     },
     "4469": {
         "name": {
@@ -285,7 +285,7 @@
             "pt": "Cristal Verde"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 5623
     },
     "4053": {
         "name": {
@@ -301,7 +301,7 @@
             "pt": "Essência de Chumbo Puro"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 111282
     },
     "4062": {
         "name": {
@@ -317,7 +317,7 @@
             "pt": "Aço"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 8999
     },
     "4008": {
         "name": {
@@ -357,7 +357,7 @@
             "pt": "Lingote de Vanádio"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 30087
     },
     "4009": {
         "name": {
@@ -381,7 +381,7 @@
             "pt": "Lingote de Titânio"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 26710
     },
     "4411": {
         "name": {
@@ -413,7 +413,7 @@
             "pt": "Fragmento de Prata Derretido"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 9895
     },
     "4202": {
         "name": {
@@ -445,7 +445,7 @@
             "pt": "Essência de Titanium Puro"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 87082
     },
     "4483": {
         "name": {
@@ -453,7 +453,7 @@
             "pt": "Cristal Azul"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 7513
     },
     "4485": {
         "name": {
@@ -461,7 +461,7 @@
             "pt": "Cristal Violeta"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 7080
     },
     "4252": {
         "name": {
@@ -469,7 +469,7 @@
             "pt": "Lingotes de Prata"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 79168
     },
     "4203": {
         "name": {
@@ -477,7 +477,7 @@
             "pt": "Minério de Platina"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 5300
     },
     "4257": {
         "name": {
@@ -485,7 +485,7 @@
             "pt": "Fragmento do Platina Derretida"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 15577
     },
     "4255": {
         "name": {
@@ -493,7 +493,7 @@
             "pt": "Lingotes de Ouro"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 120637
     },
     "4262": {
         "name": {
@@ -525,7 +525,7 @@
             "pt": "Lingote de Platina"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 62800
     },
     "4401": {
         "name": {
@@ -557,7 +557,7 @@
             "pt": "Essência de Prata Pura"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 94178
     },
     "4256": {
         "name": {
@@ -565,7 +565,7 @@
             "pt": "Essência de Ouro Puro"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 170397
     },
     "4264": {
         "name": {
@@ -581,7 +581,7 @@
             "pt": "Essência de Platina Pura"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 213945
     },
     "4452": {
         "name": {
@@ -613,7 +613,7 @@
             "pt": "Topázio"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 23305
     },
     "4404": {
         "name": {
@@ -629,7 +629,7 @@
             "pt": "Esmeralda"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 18019
     },
     "4405": {
         "name": {
@@ -637,7 +637,7 @@
             "pt": "Diamante Bruto"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 6922
     },
     "4463": {
         "name": {
@@ -685,7 +685,7 @@
             "pt": "Polidor de Gema"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 60500  
     },
     "16001": {
         "name": {
@@ -741,7 +741,7 @@
             "pt": "Topázio Dourado"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 396820
     },
     "4462": {
         "name": {
@@ -757,7 +757,7 @@
             "pt": "Safira Oceano"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 447127
     },
     "4465": {
         "name": {
@@ -765,7 +765,7 @@
             "pt": "Diamante Estrela"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 421729
     },
     "4901": {
         "name": {
@@ -789,7 +789,7 @@
             "pt": "Rubi Sangrento"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 482594
     },
     "15006": {
         "name": {
@@ -2029,7 +2029,7 @@
             "pt": "Madeira de Bordo"
         },
         "weight": 0.5,
-        "price": 531
+        "price": 649
     },
     "15634": {
         "name": {
@@ -2077,7 +2077,7 @@
             "pt": "Tábua de Bordo"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 2367
     },
     "15638": {
         "name": {
@@ -2109,7 +2109,7 @@
             "pt": "Madeira Compensada de Freixo"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 12036
     },
     "4603": {
         "name": {
@@ -2117,7 +2117,7 @@
             "pt": "Madeira de Pinheiro"
         },
         "weight": 0.5,
-        "price": 778
+        "price": 707
     },
     "4604": {
         "name": {
@@ -2125,7 +2125,7 @@
             "pt": "Madeira de Bétula"
         },
         "weight": 0.5,
-        "price": 630
+        "price": 693
     },
     "4657": {
         "name": {
@@ -2133,7 +2133,7 @@
             "pt": "Tábua do Pinheiro"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 3118
     },
     "4660": {
         "name": {
@@ -2149,7 +2149,7 @@
             "pt": "Madeira Compensada de Árvore Bordo"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 11550
     },
     "4606": {
         "name": {
@@ -2165,7 +2165,7 @@
             "pt": "Tábua de Abeto"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 2944
     },
     "4607": {
         "name": {
@@ -2181,7 +2181,7 @@
             "pt": "Tábua de Cedro"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 2967
     },
     "4676": {
         "name": {
@@ -2189,7 +2189,7 @@
             "pt": "Tábua de Cedro Branco"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 1940
     },
     "4608": {
         "name": {
@@ -2205,7 +2205,7 @@
             "pt": "Madeira Compensada de Pinheiro"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 24948
     },
     "4661": {
         "name": {
@@ -2213,7 +2213,7 @@
             "pt": "Madeira Compensada de Bétula"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 12320
     },
     "4609": {
         "name": {
@@ -2221,7 +2221,7 @@
             "pt": "Lenho de Acácia"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 908
     },
     "4664": {
         "name": {
@@ -2229,7 +2229,7 @@
             "pt": "Madeira Compensada de Abeto"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 14175
     },
     "4667": {
         "name": {
@@ -2237,7 +2237,7 @@
             "pt": "Madeira Compensada de Cedro"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 11970
     },
     "4677": {
         "name": {
@@ -2253,7 +2253,7 @@
             "pt": "Tábua de Acácia"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 3675
     },
     "4610": {
         "name": {
@@ -2301,7 +2301,7 @@
             "pt": "Tronco"
         },
         "weight": 0.5,
-        "price": -1
+        "price": 831
     },
     "4681": {
         "name": {
@@ -2421,7 +2421,7 @@
             "pt": "Açúcar Mascavo"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 200
     },
     "5440": {
         "name": {
@@ -2437,7 +2437,7 @@
             "pt": "Algodão"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 1163
     },
     "5802": {
         "name": {
@@ -2445,7 +2445,7 @@
             "pt": "Linho"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 1236
     },
     "5803": {
         "name": {
@@ -2461,7 +2461,7 @@
             "pt": "Lã"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 1236
     },
     "5852": {
         "name": {
@@ -2469,7 +2469,7 @@
             "pt": "Fio de Linho"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 2747
     },
     "5851": {
         "name": {
@@ -2477,7 +2477,7 @@
             "pt": "Fio de Algodão"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 3524
     },
     "5853": {
         "name": {
@@ -2501,7 +2501,7 @@
             "pt": "Água Mineral"
         },
         "weight": 0.01,
-        "price": 60
+        "price": 30
     },
     "5601": {
         "name": {
@@ -2533,7 +2533,7 @@
             "pt": "Tecido de Linho"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 10196
     },
     "5857": {
         "name": {
@@ -2549,7 +2549,7 @@
             "pt": "Tecido de Algodão"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 14967
     },
     "5858": {
         "name": {
@@ -2573,7 +2573,7 @@
             "pt": "Couro de Ovelha"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 1467
     },
     "6005": {
         "name": {
@@ -2917,7 +2917,7 @@
             "pt": "Trigo"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 374
     },
     "6173": {
         "name": {
@@ -2949,7 +2949,7 @@
             "pt": "Farinha de Trigo"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 594
     },
     "7102": {
         "name": {
@@ -3077,7 +3077,7 @@
             "pt": "Massa de Farinha de Batata"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 436
     },
     "7010": {
         "name": {
@@ -3173,7 +3173,7 @@
             "pt": "Erva Aurora"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 415
     },
     "5402": {
         "name": {
@@ -3181,7 +3181,7 @@
             "pt": "Azaleia Prata"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 389
     },
     "5403": {
         "name": {
@@ -3221,7 +3221,7 @@
             "pt": "Grama Mel de Seda"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 230
     },
     "5406": {
         "name": {
@@ -3365,7 +3365,7 @@
             "pt": "Sal"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 20
     },
     "9002": {
         "name": {
@@ -3381,7 +3381,7 @@
             "pt": "Anise Estrelar"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 866
     },
     "517": {
         "name": {
@@ -3445,7 +3445,7 @@
             "pt": "Leite"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 2376
     },
     "16901": {
         "name": {
@@ -3469,7 +3469,7 @@
             "pt": "Água Destilada"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 1776
     },
     "526": {
         "name": {
@@ -3493,7 +3493,7 @@
             "pt": "Mel de Cozinha"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 2079
     },
     "24142": {
         "name": {
@@ -3509,7 +3509,7 @@
             "pt": "Fermento"
         },
         "weight": 0.01,
-        "price": 40
+        "price": 20
     },
     "9063": {
         "name": {
@@ -3525,7 +3525,7 @@
             "pt": "Chá de Anise Estrelar"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 2079
     },
     "16902": {
         "name": {
@@ -3621,7 +3621,7 @@
             "pt": "Água Purificada"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 2079
     },
     "7704": {
         "name": {
@@ -3693,7 +3693,7 @@
             "pt": "Chá com Aroma Fino"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 7860
     },
     "9413": {
         "name": {
@@ -3741,7 +3741,7 @@
             "pt": "Vinho de Mel"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 3600
     },
     "9804": {
         "name": {
@@ -3861,7 +3861,7 @@
             "pt": "Chá Sute"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 16404
     },
     "9422": {
         "name": {
@@ -3869,7 +3869,7 @@
             "pt": "Pudim Escuro"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 29920
     },
     "5301": {
         "name": {
@@ -4165,7 +4165,7 @@
             "pt": "Chá com Leite"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 12509
     },
     "9832": {
         "name": {
@@ -4301,7 +4301,7 @@
             "pt": "Carne de Raposa"
         },
         "weight": 0.03,
-        "price": -1
+        "price": 1455
     },
     "9840": {
         "name": {
@@ -6229,7 +6229,7 @@
             "pt": "Sal Desidratado ao Sol"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 200
     },
     "4902": {
         "name": {
@@ -7197,7 +7197,7 @@
             "pt": "Opala Resplandecente"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 41462
     },
     "7022": {
         "name": {
@@ -7205,7 +7205,7 @@
             "pt": "Teff"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 394
     },
     "7021": {
         "name": {
@@ -7445,7 +7445,7 @@
             "pt": "Opala Lunar"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 247170
     },
     "4267": {
         "name": {
@@ -8117,7 +8117,7 @@
             "pt": "Lingote de Ferrugem"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 23489
     },
     "598": {
         "name": {
@@ -8197,7 +8197,7 @@
             "pt": "Essência de Ferrugem Puro"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 166000
     },
     "4615": {
         "name": {
@@ -8349,7 +8349,7 @@
             "pt": "Pó de Chama"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 1878
     },
     "16347": {
         "name": {
@@ -11917,7 +11917,7 @@
             "pt": "Saco de Água Suja"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 693
     },
     "4922": {
         "name": {
@@ -13725,7 +13725,7 @@
             "pt": "Refeição Balenos"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 27889
     },
     "9631": {
         "name": {
@@ -13733,7 +13733,7 @@
             "pt": "Ração de Combate do Cavaleiro"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 45511
     },
     "9603": {
         "name": {
@@ -13741,7 +13741,7 @@
             "pt": "Refeição Serendia"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 35395
     },
     "4925": {
         "name": {
@@ -13773,7 +13773,7 @@
             "pt": "Refeição Calpheon Especial"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 228296
     },
     "9607": {
         "name": {
@@ -13781,7 +13781,7 @@
             "pt": "Refeição Mediah"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 61333
     },
     "9632": {
         "name": {
@@ -13789,7 +13789,7 @@
             "pt": "Refeição Especial de Arehaza"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 41200
     },
     "791": {
         "name": {
@@ -13853,7 +13853,7 @@
             "pt": "Refeição Valência"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 55003
     },
     "9635": {
         "name": {
@@ -13861,7 +13861,7 @@
             "pt": "Refeição de Kamasylvia"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 49308
     },
     "721002": {
         "name": {
@@ -13901,7 +13901,7 @@
             "pt": "Tempero de Cron Ancestral"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 50000
     },
     "721003": {
         "name": {
@@ -13965,7 +13965,7 @@
             "pt": "Refeição Simples de Cron"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 320000
     },
     "9693": {
         "name": {
@@ -13973,7 +13973,7 @@
             "pt": "Refeição de Iguarias de Cron"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 320000
     },
     "6757": {
         "name": {
@@ -14189,7 +14189,7 @@
             "pt": "Frango"
         },
         "weight": 0.03,
-        "price": -1
+        "price": 1442
     },
     "9494": {
         "name": {
@@ -14229,7 +14229,7 @@
             "pt": "Sangue de Palhaço"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 13098
     },
     "6601": {
         "name": {
@@ -14261,7 +14261,7 @@
             "pt": "Sangue do Pecador"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 14607
     },
     "6355": {
         "name": {
@@ -14309,7 +14309,7 @@
             "pt": "Cogumelo Vidente"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 583
     },
     "5010": {
         "name": {
@@ -14341,7 +14341,7 @@
             "pt": "Cogumelo Flecha"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 831
     },
     "5418": {
         "name": {
@@ -14373,7 +14373,7 @@
             "pt": "Sangue do Tirano"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 21914
     },
     "5002": {
         "name": {
@@ -14405,7 +14405,7 @@
             "pt": "Cogumelo Anão"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 789
     },
     "6203": {
         "name": {
@@ -14413,7 +14413,7 @@
             "pt": "Sangue de Raposa"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 1663
     },
     "5959": {
         "name": {
@@ -14421,7 +14421,7 @@
             "pt": "Vestígio de Caça"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 5063
     },
     "5009": {
         "name": {
@@ -14469,7 +14469,7 @@
             "pt": "Cogumelo Nuvem"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 752
     },
     "4801": {
         "name": {
@@ -14477,7 +14477,7 @@
             "pt": "Pó de Escuridão"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 1874
     },
     "6210": {
         "name": {
@@ -14509,7 +14509,7 @@
             "pt": "Caroço de Árvore Vermelha"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 2669
     },
     "5008": {
         "name": {
@@ -14517,7 +14517,7 @@
             "pt": "Casca de Árvore Velha"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 2249
     },
     "5411": {
         "name": {
@@ -14533,7 +14533,7 @@
             "pt": "Cogumelo Tigre"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 603
     },
     "6218": {
         "name": {
@@ -14565,7 +14565,7 @@
             "pt": "Galho de Monge"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 2249
     },
     "7304": {
         "name": {
@@ -14589,7 +14589,7 @@
             "pt": "Folha de Espírito"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 2747
     },
     "5005": {
         "name": {
@@ -14597,7 +14597,7 @@
             "pt": "Laço de Árvore Sangrenta"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 4316
     },
     "6201": {
         "name": {
@@ -14621,7 +14621,7 @@
             "pt": "Uva"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 748
     },
     "5203": {
         "name": {
@@ -14805,7 +14805,7 @@
             "pt": "Pó de Rachadura"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 2416
     },
     "4805": {
         "name": {
@@ -14813,7 +14813,7 @@
             "pt": "Pó do Tempo"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 1889
     },
     "6215": {
         "name": {
@@ -14885,7 +14885,7 @@
             "pt": "Molho Veid"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 40
     },
     "7316": {
         "name": {
@@ -14909,7 +14909,7 @@
             "pt": "Azeite de Oliva"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 40
     },
     "6219": {
         "name": {
@@ -14965,7 +14965,7 @@
             "pt": "Ovo"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 623
     },
     "6217": {
         "name": {
@@ -14997,7 +14997,7 @@
             "pt": "Essência do Liquor"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 558
     },
     "7311": {
         "name": {
@@ -15013,7 +15013,7 @@
             "pt": "Vinho para Cozinha"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 40
     },
     "7347": {
         "name": {
@@ -15077,7 +15077,7 @@
             "pt": "Pimentão"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 535
     },
     "9003": {
         "name": {
@@ -15141,7 +15141,7 @@
             "pt": "Abóbora"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 623
     },
     "9205": {
         "name": {
@@ -15157,7 +15157,7 @@
             "pt": "Vinho de Mel Picante"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 487
     },
     "9213": {
         "name": {
@@ -15197,7 +15197,7 @@
             "pt": "Sopa de Grãos"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 590
     },
     "7318": {
         "name": {
@@ -15285,7 +15285,7 @@
             "pt": "Cebola"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 664
     },
     "9298": {
         "name": {
@@ -15317,7 +15317,7 @@
             "pt": "Chá com Leite Suave"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 35066
     },
     "9264": {
         "name": {
@@ -15397,7 +15397,7 @@
             "pt": "Óleo para Fritura"
         },
         "weight": 0.01,
-        "price": -1
+        "price": 40
     },
     "9291": {
         "name": {
@@ -15485,7 +15485,7 @@
             "pt": "Girassol"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 789
     },
     "9256": {
         "name": {
@@ -15741,7 +15741,7 @@
             "pt": "Chá com Cheiro Forte"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 3881
     },
     "9420": {
         "name": {
@@ -15765,7 +15765,7 @@
             "pt": "Pudim Escuro Sangrento"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 23014
     },
     "9423": {
         "name": {
@@ -15901,7 +15901,7 @@
             "pt": "Refeição Serendia Especial"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 185100
     },
     "9602": {
         "name": {
@@ -15909,7 +15909,7 @@
             "pt": "Balenos Refeição Especial"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 188496
     },
     "9605": {
         "name": {
@@ -15917,7 +15917,7 @@
             "pt": "Refeição Especial Calpheon"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 51931
     },
     "54017": {
         "name": {
@@ -15925,7 +15925,7 @@
             "pt": "Ração Boa"
         },
         "weight": 0.3,
-        "price": -1
+        "price": 13500
     },
     "9608": {
         "name": {
@@ -15933,7 +15933,7 @@
             "pt": "Mediah Refeição Especial"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 160259
     },
     "54018": {
         "name": {
@@ -16181,7 +16181,7 @@
             "pt": "Noz-Moscada"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 830
     },
     "7018": {
         "name": {
@@ -16189,7 +16189,7 @@
             "pt": "Figo"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 851
     },
     "7016": {
         "name": {
@@ -16197,7 +16197,7 @@
             "pt": "Tamareira"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 706
     },
     "9460": {
         "name": {
@@ -16365,7 +16365,7 @@
             "pt": "Valência Refeição Especial"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 174420
     },
     "6533": {
         "name": {
@@ -16597,7 +16597,7 @@
             "pt": "Refeição Especial de Kamasylvia"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 80420
     },
     "5516": {
         "name": {
