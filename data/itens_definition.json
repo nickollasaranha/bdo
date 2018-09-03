@@ -15357,7 +15357,7 @@
             "pt": "Aveia"
         },
         "weight": 0.1,
-        "price": -1
+        "price": 10300
     },
     "9289": {
         "name": {
@@ -15941,7 +15941,7 @@
             "pt": "Ração Orgânica"
         },
         "weight": 0.2,
-        "price": -1
+        "price": 17000
     },
     "9455": {
         "name": {

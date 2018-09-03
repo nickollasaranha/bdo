@@ -212,8 +212,8 @@ def main():
   load_item_definition()
 
   # Start processing stuff
-  generate_threads(PROCESSING_FILE)
-  save_definition(aux_recipes, "processing")
+  # generate_threads(PROCESSING_FILE)
+  # save_definition(aux_recipes, "processing")
   generate_threads(CRAFTING_FILE)
   save_definition(aux_recipes, "crafting")
 

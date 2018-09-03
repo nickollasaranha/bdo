@@ -16580,7 +16580,7 @@
         "group_requirements": {},
         "generates": 9693,
         "byproducts": {},
-        "proc": 2.5
+        "proc": 1
     },
     "1678": {
         "profission": "Simple Cooking",
@@ -16594,7 +16594,7 @@
         "group_requirements": {},
         "generates": 9692,
         "byproducts": {},
-        "proc": 2.5
+        "proc": 1
     },
     "1703": {
         "profission": "Shaking",

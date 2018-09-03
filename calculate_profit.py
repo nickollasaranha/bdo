@@ -75,6 +75,7 @@ def calcProfitability(data, name):
   profitability_list = []
 # Process itens
   for recipe_id in data:
+    if recipe_id == "1679": print("oi")
     recipe_id = str(recipe_id)
     generating_item = data[recipe_id]["generates"]
 
